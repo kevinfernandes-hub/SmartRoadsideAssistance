@@ -1,0 +1,19 @@
+﻿##START_DEBUG##
+DEBUG: CWD = C:\Users\asus\Downloads\smart-roadside-assistance (1)
+DEBUG: .env.local exists? True
+DEBUG: Gemini Keys in Env: ['VITE_GEMINI_API_KEY']
+DEBUG: Found API Key: AIzaS... (Cleaned)
+DEBUG: Gemini Initialized Successfully
+Testing Gemini Analysis (Backend)...
+
+Prompt: I have a flat tire
+DEBUG: Gemini Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Result: None (Likely due to missing API key or error)
+
+Prompt: There is smoke coming from my engine
+DEBUG: Gemini Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Result: None (Likely due to missing API key or error)
+
+Prompt: I was in a major accident and need help immediately
+DEBUG: Gemini Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+Result: None (Likely due to missing API key or error)
